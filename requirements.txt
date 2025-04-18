@@ -1,1 +1,6 @@
-python-telegram-bot==20.7
+python-telegram-bot==20.3
+pandas
+matplotlib
+python-dotenv
+Flask
+
